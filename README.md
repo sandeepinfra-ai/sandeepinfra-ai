@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Venkata Sandeep Kumar Reddy
 
-<!--
-**sandeepinfra-ai/sandeepinfra-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer | Cloud Infrastructure Engineer
 
-Here are some ideas to get you started:
+Infrastructure-focused Data Engineer skilled in building ETL pipelines, workflow orchestration systems, cloud-native automation platforms, and scalable data infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+
+- Python
+- SQL
+- PostgreSQL
+- Apache Airflow
+- Apache Kafka
+- AWS
+- Docker
+- Linux
+- ETL Pipelines
+- Cloud Infrastructure
+- Workflow Automation
+- Real-Time Data Processing
+
+## Featured Projects
+
+- ETL Data Pipeline Project
+- Real-Time Kafka Streaming
+- AWS Cloud Data Engineering
+- Data Engineering Portfolio
